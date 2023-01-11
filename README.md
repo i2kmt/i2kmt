@@ -6,6 +6,7 @@ I am currently:
 - Studying medicine
 - Spying on stars, planets and messier objects with my telescope
 - Helping on manufacturing @AcubeSAT
+- Swimming long distances
 
 
 <!--
