@@ -1,6 +1,12 @@
-### Hi there 👋
+### Turtlemoon
 
-A gal who is really into biochemistry, mathematics and astronomy. I'm basically trying to collide these interests into something creative.
+A gal who is really into biochemistry, mathematics and astronomy. I'm basically trying to converge these interests into something creative.
+
+I am currently:
+- Studying medicine
+- Spy on stars, planets and messier objects with my telescope
+- Helping on manufacturing @AcubeSAT
+
 
 <!--
 **i2kmt/i2kmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
