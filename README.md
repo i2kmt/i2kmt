@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A peep who is really into biochemistry, mathematics and astronomy. I'm basically trying to collide these interests into something creative.
+
 <!--
 **i2kmt/i2kmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
