@@ -4,7 +4,7 @@ A gal who is really into biochemistry, mathematics and astronomy. I'm basically 
 
 I am currently:
 - Studying medicine
-- Spy on stars, planets and messier objects with my telescope
+- Spying on stars, planets and messier objects with my telescope
 - Helping on manufacturing @AcubeSAT
 
 
