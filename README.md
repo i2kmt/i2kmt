@@ -6,7 +6,7 @@ After studying neuroanatomy, I think neuroscience will be fun for me
 I am currently:
 - Studying medicine
 - Spying on stars, planets and messier objects with my telescope
-- Helping on manufacturing @AcubeSAT
+- Helping on manufacturing [@AcubeSAT](https://acubesat.spacedot.gr/)
 - Swimming long distances
 
 
