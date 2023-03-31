@@ -1,6 +1,7 @@
 ### Turtlemoon
 
 A gal who is really into biochemistry, mathematics and astronomy. I'm basically trying to converge these interests into something creative.
+After studying neuroanatomy, I think neuroscience will be fun for me
 
 I am currently:
 - Studying medicine
