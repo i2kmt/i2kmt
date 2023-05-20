@@ -7,8 +7,7 @@ I am currently:
 - Helping on manufacturing [@AcubeSAT](https://acubesat.spacedot.gr/)
 - Swimming long distances
 
-Digital drawing:
-https://www.fiverr.com/s/3R53yk
+
 
 <!--
 **i2kmt/i2kmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
