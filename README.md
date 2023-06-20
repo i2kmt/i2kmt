@@ -1,6 +1,6 @@
 ### Turtlemoon
 
-A gal who is really into neuroscience, mathematics and astronomy.
+A medicine student who is really into neuroscience, mathematics and astronomy.
 I am currently:
 - Studying medicine
 - Spying on stars, planets and messier objects with my telescope
